@@ -1,6 +1,6 @@
 # Pokestrat
 
-![Pokestrat Screenshot](https://media.licdn.com/dms/image/v2/D562DAQGcftTYRjPHDQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1724969157833?e=1725843600&v=beta&t=8rdmvWyknGFFfOUS4sG370jh4hknJscwpHjueyhuas4)
+![Pokestrat Screenshot](https://i.ibb.co/mGPKX7L/1724969157833.jpg)
 
 Pokestrat is a handy Pokémon team builder web application designed for both casual and competitive players. This is one of my summer projects that demonstrates my ability to design and develop complex web applications with a focus on user experience, performance, and data analysis.
 
