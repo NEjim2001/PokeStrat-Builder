@@ -13,8 +13,6 @@ Pokestrat is a handy Pokémon team builder web application designed for both cas
 
 Check out the website!: [Pokestrat Team Builder](https://www.pokestratbuilder.com)
 
-If you plan on cleaning the code but have already listed the project on your resume, you can indicate ongoing improvements by adding a note about the current or upcoming code cleanup efforts. Here’s how you could signify that in your project description:
-
 ## Overview
 
 Pokestrat offers a various set of tools for building and analyzing Pokémon teams:
