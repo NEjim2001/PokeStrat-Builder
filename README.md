@@ -1,43 +1,52 @@
+> ⚡ **Note:** This repository is a **public showcase directory** for **Pokestrat**. The production application is live and actively maintained, but the full private codebase is not published here for security reasons. This directory highlights features, tech stack, and design decisions for portfolio and resume purposes.
+
 # Pokestrat
 
 ![Pokestrat Screenshot](https://i.ibb.co/mGPKX7L/1724969157833.jpg)
 
-Pokestrat is a handy Pokémon team builder web application designed for both casual and competitive players. This is one of my summer projects that demonstrates my ability to design and develop complex web applications with a focus on user experience, performance, and data analysis.
+**Pokestrat** is a competitive and casual Pokémon team builder web application built as a SaaS product. It demonstrates full-stack development skills, including authentication, payment integration, UI/UX design, and real-time data analysis.
 
-## Trailers (Credit to Me!)
+## 🎥 Trailers
 
-- [Teaser Trailer](https://youtu.be/1s8mzvb-JqY)
-- [Launch Trailer](https://youtu.be/5IOBPt2ynOc)
+* [Teaser Trailer](https://youtu.be/1s8mzvb-JqY)
+* [Launch Trailer](https://youtu.be/5IOBPt2ynOc)
 
-## Website
+## 🌐 Website
 
-Check out the website!: [Pokestrat Team Builder](https://www.pokestratbuilder.com)
+👉 [Pokestrat Team Builder](https://www.pokestratbuilder.com)
 
-## Overview
+## 🚀 Overview
 
-Pokestrat offers a various set of tools for building and analyzing Pokémon teams:
+Pokestrat provides tools for players to create, analyze, and optimize Pokémon teams.
 
-- **Team Builder:** A dynamic interface allowing users to create and customize their Pokémon teams, including moves, abilities, items, and stats.
-- **Weakness Analysis:** Provides insights into your team's vulnerabilities and suggests strategies to mitigate weaknesses.
-- **Role Checklists:** Ensures your team has balanced roles, such as sweepers, spinners, and clerics.
-- **Smogon Suggestions:** Integrates real-time Smogon competitive data, offering users access to popular strategies, moves, items, and teammates.
+* **Team Builder:** Build and customize teams with moves, abilities, items, and stats.
+* **Weakness Analysis:** View type vulnerabilities and receive suggestions to balance weaknesses.
+* **Role Checklists:** Ensure coverage of common competitive roles such as sweepers, pivots, and hazard control.
+* **Smogon Data Integration:** Pulls live usage data, popular moves, items, and teammates from competitive formats.
+* **Champion Pass (Premium Tier):** Subscription tier with extra features, powered by Stripe.
 
-_Currently undergoing a code cleanup to enhance performance and maintainability._
-
-## Technologies Used
+## 🛠️ Technologies
 
 ### Frontend
 
-- **Framework:** NEXT.js for a responsive and interactive user interface.
-- **Styling:** Tailwind CSS for a clean and modern design.
-- **Development:** Designed the UX and UI in Figma, focusing on layouts and user-friendly interactions.
+* **Framework:** Next.js (React) for fast, scalable UI.
+* **Styling:** Tailwind CSS for responsive and modern design.
+* **Design:** Custom UI/UX built in Figma.
 
 ### Backend
 
-- **Server:** Node.js for managing API requests and data processing.
-- **APIs:** Integration with [PokeAPI](https://pokeapi.co/) and [@pkmn](https://github.com/pkmn/smogon) for Pokémon data and competitive statistics.
-- **Analytics:** Vercel Analytics for tracking user interactions and performance metrics.
+* **Server:** Node.js with Express.
+* **Auth:** OAuth with Google and Discord + secure user authentication.
+* **Payments:** Stripe integration for premium subscriptions (Champion Pass).
+* **APIs:**
 
-## Contact
+  * [PokeAPI](https://pokeapi.co/) for Pokémon data.
+  * [@pkmn](https://github.com/pkmn/smogon) for Smogon usage stats and competitive sets.
+* **Analytics & CRM:** Google Analytics, Vercel Analytics, and Mailchimp API for user insights and engagement.
 
-For more information about this project or to discuss potential collaborations, please contact me through my [X](https://x.com/NnaDaCoder) or join the Pokestrat [Discord community](https://discord.gg/vc5tSYmvXb).
+## 📬 Contact
+
+For more information about this project or to discuss collaborations:
+
+* [X (Twitter)](https://x.com/NnaDaCoder)
+* [Discord Community](https://discord.gg/vc5tSYmvXb)
