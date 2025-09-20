@@ -47,5 +47,4 @@ Pokestrat provides tools for players to create, analyze, and optimize Pokémon t
 
 For more information about this project or to discuss collaborations:
 
-* [X (Twitter)](https://x.com/NnaDaCoder)
 * [Discord Community](https://discord.gg/vc5tSYmvXb)
