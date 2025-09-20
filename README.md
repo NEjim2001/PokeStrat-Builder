@@ -1,5 +1,4 @@
 > ⚡ **Note:** This repository is a **public showcase directory** for **Pokestrat**. The production application is live and actively maintained, but the full private codebase is not published here for security reasons. This directory highlights features, tech stack, and design decisions for portfolio and resume purposes.
-
 # Pokestrat
 
 ![Pokestrat Screenshot](https://i.ibb.co/mGPKX7L/1724969157833.jpg)
